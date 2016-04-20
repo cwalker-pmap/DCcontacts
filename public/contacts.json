@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Batman",
+    "email": "bruceWayne@gmail.com"
+  },
+  {
+    "name": "Superman",
+    "email": "clarkKent@dailyplanent.com"
+  },
+  {
+    "name": "Flash",
+    "email": "barryAllen@centralcitypolice.com"
+  },
+  {
+    "name": "Wonder Woman",
+    "email": "DianaPrince@themyscira.com"
+  },
+  {
+    "name": "Martian Manhunter",
+    "email": "jonnjonzz@mars.com"
+  },
+  {
+    "name": "Green Lantern",
+    "email": "halJordan@greenlanterncorps.com"
+  }
+]
